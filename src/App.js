@@ -28,8 +28,7 @@ width: 100%;
   
 `
 
-
-function App() {
+function App()  {
   const [company, setCompany] = useState([]);
   return (
   
